@@ -1,0 +1,20 @@
+UNIVERSAL MPPT SYSTEM - SIMULATION REPORT
+==================================================
+Generated: 2025-08-02 09:41:11
+
+KEY PERFORMANCE METRICS:
+- Total Energy Generated: 83277.8 Wh
+- Average MPPT Efficiency: 94.96%
+- Peak Power Output: 3897.2 W
+- Data Points: 13
+
+POWER SOURCE DISTRIBUTION:
+- Solar: 54.5 W (1.6%)
+- Wind: 327.4 W (9.5%)
+- Hydro: 3076.4 W (89.0%)
+
+GENERATED PLOTS:
+- Power Characteristics (PNG + PDF)
+- Simulation Results (PNG + PDF)
+- Individual Source Characteristics (PNG + PDF)
+- Performance Summary (PNG + PDF)
